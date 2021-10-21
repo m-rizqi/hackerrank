@@ -1,0 +1,60 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BestDivisor",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.mathematics.BestDivisor",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SherlockAndMovingTiles",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.mathematics.SherlockAndMovingTiles",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.rizqi.Main",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestSum",
+            "request": "launch",
+            "mainClass": "com.rizqi.freecodecamp.BestSum",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowSum",
+            "request": "launch",
+            "mainClass": "com.rizqi.freecodecamp.HowSum",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "name": "Debug Java",
+            "type": "java",
+            "request": "launch",
+            "externalConsole": true,
+            "stopOnEntry": true,
+            "preLaunchTask": "build",
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${workspaceRoot}",
+            "startupClass": "${workspaceRoot}${file}",
+            "sourcePath": [
+                "${workspaceRoot}"
+            ],
+            "classpath": [
+                "${workspaceRoot}"
+            ],
+            "options": [],
+            "args": []
+        }
+    ],
+    "compounds": []
+}
