@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FlatlandSpaceStations",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.FlatlandSpaceStations",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Restaurant",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.mathematics.Restaurant",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
             "name": "Launch BestDivisor",
             "request": "launch",
             "mainClass": "com.rizqi.hackerrank.mathematics.BestDivisor",
