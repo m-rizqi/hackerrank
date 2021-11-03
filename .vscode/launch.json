@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FairRations",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.FairRations",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
             "name": "Launch FlatlandSpaceStations",
             "request": "launch",
             "mainClass": "com.rizqi.hackerrank.problem_solving.FlatlandSpaceStations",
