@@ -1,4 +1,4 @@
-package com.rizqi.freecodecamp;
+package freecodecamp;
 
 import java.util.ArrayList;
 import java.util.HashMap;

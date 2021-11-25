@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AppendAndDelete",
+            "request": "launch",
+            "mainClass": "hackerrank.problem_solving.AppendAndDelete",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppendAndDelete",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.AppendAndDelete",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaesarChiper",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.CaesarChiper",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoCharacters",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.TwoCharacters",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrongPassword",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.StrongPassword",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CamelCase",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.CamelCase",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuperReducedString",
+            "request": "launch",
+            "mainClass": "com.rizqi.hackerrank.problem_solving.SuperReducedString",
+            "projectName": "CompetitiveProgramming_e971bedd"
+        },
+        {
+            "type": "java",
             "name": "Launch FairRations",
             "request": "launch",
             "mainClass": "com.rizqi.hackerrank.problem_solving.FairRations",

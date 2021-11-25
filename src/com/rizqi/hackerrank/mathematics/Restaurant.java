@@ -1,4 +1,4 @@
-package com.rizqi.hackerrank.mathematics;
+package hackerrank.mathematics;
 
 import java.util.ArrayList;
 import java.util.List;
